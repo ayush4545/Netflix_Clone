@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "title": "Enjoy on your TV.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png",
+      "bgimg": "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYjI3IGWp6ZG81rxU5Cd-iX_aTvVL9WG7bA90_LXZrwSlCBqVe0QQVG2ZT1NC2LUX7FyClUEnMxpMlY7sBnRI3oNPYzu.jpg?r=65d",
+      "alt": "Tiger King on Netflix",
+      "direction": "row"
+    },
+    {
+      "id": 2,
+      "title": "Download your programmes to watch on the go.",
+      "subTitle": "Save your data and watch all your favourites offline.",
+      "image": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg",
+      "alt": "Watch on mobile",
+      "direction": "row-reverse"
+    },
+    {
+      "id": 3,
+      "title": "Watch everywhere.",
+      "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+      "image": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/device-pile-in.png",
+      "bgimg": "https://deadline.com/wp-content/uploads/2020/10/money-heist-part-4-preview-netflix.jpg",
+      "alt": "Money Heist on Netflix",
+      "direction": "row"
+    }
+  ]
